@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoCatalogIntegrationTests", "PhotoCatalogIntegrationTests\PhotoCatalogIntegrationTests.csproj", "{6DCADC0A-1AD7-41AE-BE62-8CD16F406CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCADC0A-1AD7-41AE-BE62-8CD16F406CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCADC0A-1AD7-41AE-BE62-8CD16F406CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCADC0A-1AD7-41AE-BE62-8CD16F406CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCADC0A-1AD7-41AE-BE62-8CD16F406CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4895E0CD-FFAE-48AF-B878-2EB2C232B7E6}
+	EndGlobalSection
+EndGlobal
